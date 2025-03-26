@@ -15,7 +15,7 @@
 ## Used langs
 - Javascript
 - HTML5
-- CSS3
+- CSS
 ---
 
 
