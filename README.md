@@ -1,5 +1,5 @@
 # Love Game For Crush
-- Love Game | A Love game to fight with more Crush in HTML5, CSS3 and Javascript
+- Love Game | A Love game to fight with more Crush in HTML5, CSS and Javascript
 <p align="center">
   <img src="/images/standing.png" height="30%" width="30%">
 </p>
@@ -21,7 +21,7 @@
 
 ## More about the game
 ### Villains in the game
-- Shravani
+- Pri
 - Venom
 - Green Goblin
 - Sandman
