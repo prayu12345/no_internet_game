@@ -1106,3 +1106,7 @@ window.Enemy         = Enemy;
 window.Roof          = Roof;
 
 })(window, document);
+
+var canvas = document.getElementById("canvas");
+canvas.width = window.innerWidth * 0.6; // Set canvas width to 60% of window width
+canvas.height = window.innerHeight * 0.6; // Set canvas height to 60% of window height
